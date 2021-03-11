@@ -138,5 +138,6 @@ module.exports = {
     'react/sort-comp': 0,
     'react/react-in-jsx-scope': 'off',
     'import/extensions': 'off',
+    'react/jsx-props-no-spreading': 'off',
   },
 };
